@@ -4,7 +4,7 @@ This project is provided completely free of charge and is openly accessible to a
 
 However, since this project does not include a specific license, it is distributed without formal legal permissions or restrictions. Users are encouraged to use it responsibly and at their own discretion.
 
-                                                             --- PROJECT IN FREE MODEL LINK DRIVE ---
+                                                --- PROJECT IN FREE MODEL LINK DRIVE ---
 <pre>
 ██████╗ ██╗   ██╗████████╗██████╗  █████╗  █████╗  █████╗      ██████╗ ███████╗██╗   ██╗
 ██╔══██╗██║   ██║╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗     ██╔══██╗██╔════╝██║   ██║
